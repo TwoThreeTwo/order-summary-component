@@ -1,3 +1,9 @@
+@import url("https://fonts.google.com/specimen/Red+Hat+Display");
+
+html {
+    font-weight: 500, 700, 900;
+}
+
 .attribution { 
     font-size: 11px;
     text-align: center; 
